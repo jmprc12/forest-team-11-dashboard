@@ -39,6 +39,8 @@ One row per person. The same role may appear on more than one row.
 |---|---|---|
 | Josh Todd | jcurrietodd | Pitch Lead |
 | Julia Price | jmprc12 | Delivery Lead |
+| Benoit Bataille | bbataille17 | Spec Lead |
+| Benoit Bataille | bbataille17 | Data Lead |
 
 ## Side quests
 
