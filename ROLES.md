@@ -38,6 +38,7 @@ One row per person. The same role may appear on more than one row.
 | Name | GitHub username | Role |
 |---|---|---|
 | Josh Todd | jcurrietodd | Pitch Lead |
+| Julia Price | jmprc12 | Delivery Lead |
 
 ## Side quests
 
